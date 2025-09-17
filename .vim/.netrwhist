@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/rsabbah/Documents/Dev/Projects/argument_parser'
+let g:netrw_dirhist_6='/Users/rsabbah/Documents/Dev/Projects/argument_parser/src'
+let g:netrw_dirhist_5='/Users/rsabbah/Documents/Dev/Projects/argument_parser'
+let g:netrw_dirhist_4='/Users/rsabbah/Documents/Dev/Projects/argument_parser/src'
+let g:netrw_dirhist_3='/Users/rsabbah/Documents/Dev/Projects/argument_parser'
+let g:netrw_dirhist_2='/Users/rsabbah'
+let g:netrw_dirhist_1='/Users/rsabbah/.cache'
+let g:netrw_dirhist_0='/Users/rsabbah'
+let g:netrw_dirhist_9='/Users/rsabbah/.vim/colors'
+let g:netrw_dirhist_8='/Users/rsabbah/.vim/colors/test'
